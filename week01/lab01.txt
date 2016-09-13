@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 stephanus.rudi StafCS 4096 Sep 13 08:27 .
+drwx--x--x  3 stephanus.rudi StafCS 4096 Sep 13 08:24 ..
+drwxr-xr-x  8 stephanus.rudi StafCS 4096 Sep 13 08:27 .git
+-rw-r--r--  1 stephanus.rudi StafCS    0 Sep 13 08:28 lab01.txt
+-rw-r--r--  1 stephanus.rudi StafCS    7 Sep 13 07:49 README.md
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 08:24 SandBox
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 08:20 week00
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:54 week01
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:55 week02
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:55 week03
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:55 week04
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:55 week05
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:56 week06
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:56 week07
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:56 week08
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:57 week09
+drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:57 week10
+/home/fasilkom/mahasiswa/s/stephanus.rudi/os162/week01
