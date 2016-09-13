@@ -17,3 +17,4 @@ drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:56 week08
 drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:57 week09
 drwxr-xr-x  2 stephanus.rudi StafCS 4096 Sep 13 07:57 week10
 /home/fasilkom/mahasiswa/s/stephanus.rudi/os162/week01
+Today is 13 Sep 2016 at 08:58:37
