@@ -1,0 +1,2 @@
+The task for this week's emphasis on how to create folder dan files, and how to use git (for push and pull).
+I think this is fun, can not wait for next task :)
