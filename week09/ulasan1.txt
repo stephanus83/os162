@@ -1,0 +1,15 @@
+OSv memungkinkan developer untuk fokus pada pengembangan aplikasinya dengan memastikan kesiapan lingkungan yang akan digunakan untuk development. Developer tidak perlu lagi melakukan konfigurasi untuk menyesuaikan dengan platform yang digunakan karena sudah di-handle oleh library ini. Berdasarkan informasi dari video ini, dengan menggunakan OSv proses built image (untuk virtual machine) yang sebelumnya membutuhkan beberapa menit dapat diturunkan menjadi rata-rata hanya 9 detik. Selain itu dari sisi performance, pada kondisi yang sama, OSv 80% lebih cepat dari pada Ubuntu Linux untuk virtualisasi dengan EC2.
+
+Kesimpulan :
+Video ini sangat menarik. Selain karena dibawakan dengan bahasa yang komunikatif, teknologi yang dihadirkanpun dapat menjadi salah satu solusi bagi para developer yang menginginkan kecepatan saat menggunakan virtual machine untuk mengembangkan aplikasi dengan Java. Video ini menunjukkan betapa besar manfaat yang dapat diperoleh para developer apabila memiliki linkungan yang tepat untuk mengembangkan aplikasinya. 
+
+GitHub: 
+     stephanus83
+URL Ulasan: 
+     http://stephanussoekendar.blogspot.com/2016/12/ulasan-1-osv-sistem-operasi-untuk-java.html
+URL Youtube: 
+     https://www.youtube.com/watch?v=-8NgXKRKmQk
+Submisi Pertama: 
+    10 Desember 2016
+Submisi Terakhir: 
+    10 Desember 2016

@@ -1,0 +1,31 @@
+Lisensi
+Windows Azure menjamin komitmen layanan mereka untuk para pengguna melalui mekanisme lisensi. Meski berbayar, namun investasi Azure jelas  tetap lebih murah ketimbang 
+melakukan pengadaan infrastruktur jaringan untuk bisnis yang kita punya. Selain itu melalui lisensi tersebut juga, Microsoft memastikan pengguna dapat dijamin dengan software assurance dan
+dapat selalu memperoleh update dari teknologi terbaru yang mereka punya. 
+Secara umum dibagi menjadi kategori berikut :
+- Windows server : per-hour license in the cloud, 
+- Microsoft applications : per-hour license in the cloud, 
+- External application : untuk aplikasi non-microsoft product, dapat disesuaikan dengan ketentuan vendor product yang bersangkutan
+
+Kesimpulan
+Video ini sangat bermanfaat karena dapat memberikan informasi mengenai teknologi terbaru terutama bagi para pecinta cloud computing. Teknologi Azure pun dapat dikatakan
+sebagai teknologi yang akan semakin marak digunakan dimasa mendatang diiringi dengan migrasi ke cloud computing yang juga semakin gencar. Para developer tidak lagi terbatas dengan infrastruktur dalam proses pengembangan 
+aplikasi yang mereka miliki.
+
+GitHub: 
+     stephanus83
+URL Ulasan: 
+     http://stephanussoekendar.blogspot.co.id/2016/12/ulasan-2-windows-azure-sebagai-iaas.html
+URL Youtube: 
+    https://www.youtube.com/watch?v=_ElhzkYYQpM
+Submisi Pertama: 
+    10 Desember 2016
+Submisi Terakhir: 
+    10 Desember 2016
+
+
+
+
+
+
+
